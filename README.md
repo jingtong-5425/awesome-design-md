@@ -27,6 +27,10 @@
 
 # Awesome DESIGN.md
 
+**[查看 84 套中文风格示意图集](风格图集.md)** · 每套一张 PNG / SVG · [图集文件](previews/README.md)
+
+> 此 Fork 新增的图片是依据各 DESIGN.md 制作的规范演绎示例，非官网截图；原始规范保持不变。
+
 Copy a DESIGN.md into your project, tell your AI agent “build me a page that looks like this,” and generate high-quality UI that stays visually consistent with the design language.
 
 Built with real design depth — including analyzed patterns, tokens, and rules — for high-quality UI generation, not surface-level outputs.
